@@ -30,5 +30,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: keycloakteszt1-tag
+          tags: deposoftzsolt/pushteszt:keycloakteszt1-tag
           labels: keycloakteszt1-label
